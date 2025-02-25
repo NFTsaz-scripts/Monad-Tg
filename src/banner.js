@@ -11,7 +11,7 @@ function displayHeader() {
             ${"╚█".blue}      
             ${" ╚══╝".red}  
 
-            ${"🔥 Join grup TG:".bold} ${"@Earnpoint10".underline.brightCyan}
+            ${"🔥 Join channel TG:".bold} ${"@nftsaz".underline.brightCyan}
   `.split("\n").map(line => line.padStart(50)).join("\n")); 
 }
 
