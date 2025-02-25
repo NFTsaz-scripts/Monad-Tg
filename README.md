@@ -1,4 +1,3 @@
-راهنمای راه اندازی ربات#
 
 ## Prerequisites
 - Ensure you have **MON** & **ETH MON** in your wallet.
@@ -10,7 +9,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/sadi200/Monad.git
+   git clone https://github.com/NFTsaz-scripts/monad-tg-.git
    cd Monad
    ```
 2. **Install Dependencies**
