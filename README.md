@@ -9,8 +9,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/NFTsaz-scripts/monad-tg-.git
-   cd Monad
+   git clone https://github.com/NFTsaz-scripts/Monad-Tg.git
+   cd Monad-Tg
    ```
 2. **Install Dependencies**
    ```bash
